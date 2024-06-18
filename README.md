@@ -1,4 +1,4 @@
-# Image Watermarking Application
+# Image Watermarking Application (GUI)
 ## Description
 This is a simple desktop application built with Python that allows users to upload images and add a custom watermark. The application uses the `tkinter` library for the graphical user interface and the `Pillow` (PIL) library for image processing.
 
